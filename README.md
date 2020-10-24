@@ -1,2 +1,2 @@
-# SrCosmo.github.io
-My first site
+# Ковтунов Григорий
+Мои домашние работы
